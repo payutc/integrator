@@ -4,7 +4,7 @@
 
     virtualenv -p python3 env
     source env/bin/activate
-    pip install selenium
+    pip install -r requirements.txt
 
 Télécharger ensuite chromedriver sur https://code.google.com/p/chromedriver/downloads/list
 
